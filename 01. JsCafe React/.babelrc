@@ -1,0 +1,6 @@
+{
+    "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
+
+// If you want to convert es6 into es5, you will need a preset environemt.
+// If you want to convert react into something that browser can understand, you will need preset react.
